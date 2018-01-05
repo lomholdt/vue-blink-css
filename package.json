@@ -1,7 +1,7 @@
 {
   "name": "vue-blink-css",
   "description": "A blink component for Vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "lomholdt <jonaslomholdt@gmail.com>",
   "license": "MIT",
   "scripts": {
